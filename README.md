@@ -56,6 +56,6 @@ Diese CSV-Datei enthält eine Übersicht verschiedener wissenschaftlicher Publik
 
 Jonas Hantow
 KidRewi-Projektteam  
-E-Mail: kidrewi@example.org  
+E-Mail: kidrewi@fh-potsdam.de  
 Web: https://www.kidrewi.de
 
